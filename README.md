@@ -28,3 +28,6 @@ CREATE TABLE [dbo].[Pruebas](
 ) ON [PRIMARY]
 GO
 
+# Tarea del portal de saludos
+1.  Archivo comprimmido PortalSaludo.rar, descomprimir y adentro hay un archivo requirements.txt que contiene los modulos necesarios para que el proyecto.
+2.  Script de la base de datos del portal de saludos, llamado Saludos.sql
